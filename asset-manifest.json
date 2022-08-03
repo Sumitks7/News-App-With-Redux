@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/News-App-With-Redux/static/css/main.8f76626e.css",
+    "main.js": "/News-App-With-Redux/static/js/main.dd045b48.js",
+    "index.html": "/News-App-With-Redux/index.html",
+    "main.8f76626e.css.map": "/News-App-With-Redux/static/css/main.8f76626e.css.map",
+    "main.dd045b48.js.map": "/News-App-With-Redux/static/js/main.dd045b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f76626e.css",
+    "static/js/main.dd045b48.js"
+  ]
+}
